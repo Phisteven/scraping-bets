@@ -1,4 +1,4 @@
-# Sports betting analysis: Scraping and analysing soccer quotes
+# Sports betting: Scraping and analysing soccer quotes
 
 This repository contains my sports betting analysis project. I aim to build three main parts: data gathering, data analysis and strategy development.
 
