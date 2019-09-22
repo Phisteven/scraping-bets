@@ -8,7 +8,7 @@ The web scraping code can be found in Web_scraping_experiment_tipico.ipynb.
 
 ## 2. Data analysis: Analyse betting rate data and derive insights
 
-tbd
+The analysis is also part of the notebook Web_scraping_experiment_tipico.ipynb.
 
 ## 3. Strategy development: Search strategies and test them on new games
 
