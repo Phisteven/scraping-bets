@@ -2,14 +2,5 @@
 
 This repository contains my sports betting analysis project. I aim to build three main parts: data gathering, data analysis and strategy development.
 
-## 1. Data gathering: Web scrape data, convert and store it in a structured format
-
-The web scraping code can be found in Web_scraping_experiment_tipico.ipynb.
-
-## 2. Data analysis: Analyse betting rate data and derive insights
-
-The analysis is also part of the notebook Web_scraping_experiment_tipico.ipynb.
-
-## 3. Strategy development: Search strategies and test them on new games
-
-tbd
+You can find the article containing the first two points here:
+https://medium.com/@steven.eulig/scraping-and-exploring-sports-betting-data-is-arbitrage-possible-a-hands-on-analysis-with-code-2ba656d7f5b
